@@ -1,7 +1,7 @@
 # Translator++  简体中文文档
 本文档根据 [项目官网2019年6月19日版本](http://dreamsavior.net/translator-the-introduction/) 构建，由 zyf722 提供简体中文翻译。
 
-Translator++ 是由 Dreamsavior 开发，zyf722 提供简体中文翻译的游戏翻译工具，目前适用于 RPG Maker 系列游戏。  
+Translator++ 是由 Dreamsavior 开发，zyf722 汉化的游戏翻译工具，目前适用于 RPG Maker 系列游戏。  
 关于 Translator++ 的更多信息可访问 [项目官网](http://dreamsavior.net/) 或 [Project1 论坛](https://rpg.blue/thread-480415-1-1.html) 来了解。
 
 ## 目录
