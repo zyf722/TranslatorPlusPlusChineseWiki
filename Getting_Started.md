@@ -1,6 +1,6 @@
 # Translator++  简体中文文档
 ## 快速入门
-点此[返回目录](https://github.com/zyf722/TranslatorPlusPlusChineseWiki)；点此[参阅官方原版文档](http://dreamsavior.net/docs/translator/keyboard-shortcuts/)。
+点此[返回目录](https://github.com/zyf722/TranslatorPlusPlusChineseWiki)；点此[参阅官方原版文档](http://dreamsavior.net/docs/translator/getting-started/)。
 
 ### 子级目录
 - 安装 Translator++
