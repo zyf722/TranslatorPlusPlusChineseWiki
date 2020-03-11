@@ -9,7 +9,7 @@ Translator++ 是由 Dreamsavior 开发，zyf722 汉化的游戏翻译工具，�
 
 ## 目录
 - [快速入门](https://github.com/zyf722/TranslatorPlusPlusChineseWiki/blob/master/Getting_Started.md)
-  - 安装 Translator++
+  - [安装 Translator++](https://github.com/zyf722/TranslatorPlusPlusChineseWiki/blob/master/Installation.md)
   - Translator++ 可以做什么？
   - 新建翻译项目
   - 简单上手 Translator++
