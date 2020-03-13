@@ -3,7 +3,8 @@
 点此[返回目录](https://github.com/zyf722/TranslatorPlusPlusChineseWiki)；点此[参阅官方原版文档](http://dreamsavior.net/docs/translator/getting-started/starting-a-translation-project/)。
 
 > ### 相关信息
-> 我想我已经强调了很多遍了。Translator++ 并不能保证百分百地兼容所有游戏。如果您的项目出现以下情况，则表明您的项目和 Translator++ 不兼容：
+> 我想我已经强调了很多遍了。Translator++ 并不能保证百分百地兼容所有游戏。  
+> 如果您的项目出现以下情况，则表明您的项目和 Translator++ 不兼容：
 > - RPGMT 窗口在 99%（或其他数字） 处卡住
 > - 虽然新建项目已经完成，但不显示“关闭”按钮
 
@@ -33,8 +34,8 @@
 ![](https://i.loli.net/2020/03/13/Sp1iow4ZlhzBWKn.png)
 
 > ### 警告
-> 在项目创建期间不断跳出新窗口是 **完全正常** 的！这是第三方组件从您的游戏中提取并导入文本到 Translator++ 的魔法。
-> **请千万别关闭这些窗口！**  
+> 在项目创建期间不断跳出新窗口是 **完全正常** 的！  
+> 这是第三方组件从您的游戏中提取并导入文本到 Translator++ 的魔法。**请千万别关闭这些窗口！**  
 > **如果您还是要坚持关掉它们的话，核战争就会爆发！**
 
 > ### 相关信息
