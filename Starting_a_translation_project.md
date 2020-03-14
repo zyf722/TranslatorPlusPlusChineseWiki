@@ -51,7 +51,7 @@
 
 ![](https://i.loli.net/2020/03/13/rd9Z8IT5SnpsWyB.png)
 
-<small>Translator++ 的主窗口。表明项目创建已成功完成。</small>
+*Translator++ 的主窗口。表明项目创建已成功完成。*
 
 > ### 相关信息
 > 如果您无法在 Translator++ 上看到您游戏中的所有资源，**请千万不要惊慌！先别急着报警！**  
